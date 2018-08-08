@@ -1,5 +1,5 @@
-# meteor-restivus-devel2000
-# Restivus [v0.8.12](https://github.com/SmartyTeam/meteor-restivus-devel2000) [![Build Status](https://github.com/SmartyTeam/meteor-restivus-devel2000)](https://github.com/SmartyTeam/meteor-restivus-devel2000)
+
+# Meteor-Restivus-Devel2000 [v0.8.12](https://github.com/SmartyTeam/meteor-restivus-devel2000) [![Build Status](https://github.com/SmartyTeam/meteor-restivus-devel2000)](https://github.com/SmartyTeam/meteor-restivus-devel2000)
 
 #### REST APIs for the Best of Us!
 
